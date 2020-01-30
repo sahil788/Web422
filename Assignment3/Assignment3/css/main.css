@@ -1,0 +1,31 @@
+.ms-parent{   
+    width: 100% !important;
+} 
+ 
+.ms-drop input[type="checkbox"]{
+    margin-right: 8px; 
+} 
+ 
+.ms-drop input[type="radio"]{
+    margin-right: 8px; 
+} 
+ 
+.ms-parent{   
+    width: 100% !important; 
+} 
+ 
+.ms-drop input[type="checkbox"]{
+    margin-right: 8px; 
+} 
+ 
+.ms-drop input[type="radio"]{   
+    margin-right: 8px; 
+} 
+ 
+.navbar-inverse {
+    padding: 10px;
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+}

@@ -1,0 +1,5 @@
+.modal-title , .close {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 150%;
+}
